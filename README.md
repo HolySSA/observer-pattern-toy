@@ -20,7 +20,7 @@
 
 ```
 Observer/
-├── Core/                 # 핵심 인터페이스
+├── Core/                # 핵심 인터페이스
 │   ├── IObserver.cs     # 옵저버 인터페이스
 │   └── ISubject.cs      # 주제 인터페이스
 ├── Managers/            # 게임 관리자
